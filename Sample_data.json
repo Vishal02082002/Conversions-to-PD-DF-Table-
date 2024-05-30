@@ -1,0 +1,202 @@
+[
+    {
+        "Dealers_lot": true,
+        "dealer_id": 1,
+        "in_compliance": false,
+        "machine_id": 11,
+        "machine_sold_status": "Sold ",
+        "machine_status": "Dealer Rental Fleet",
+        "model_no": "644P",
+        "modified_date": "03-05-2024"
+    },
+    {
+        "Dealers_lot": true,
+        "dealer_id": 2,
+        "in_compliance": true,
+        "machine_id": 13,
+        "machine_sold_status": "Unsold",
+        "machine_status": "Dealer Presold",
+        "model_no": "1775NT",
+        "modified_date": "04-05-2024"
+    },
+    {
+        "Dealers_lot": false,
+        "dealer_id": 3,
+        "in_compliance": true,
+        "machine_id": 15,
+        "machine_sold_status": "Sold ",
+        "machine_status": "Stock",
+        "model_no": "54H",
+        "modified_date": "05-05-2024"
+    },
+    {
+        "Dealers_lot": true,
+        "dealer_id": 4,
+        "in_compliance": false,
+        "machine_id": 17,
+        "machine_sold_status": "Unsold",
+        "machine_status": "Dealer Rental Fleet",
+        "model_no": "5435T",
+        "modified_date": "06-05-2024"
+    },
+    {
+        "Dealers_lot": false,
+        "dealer_id": 5,
+        "in_compliance": true,
+        "machine_id": 19,
+        "machine_sold_status": "Sold ",
+        "machine_status": "Dealer Presold",
+        "model_no": "5434Y",
+        "modified_date": "07-05-2024"
+    },
+    {
+        "Dealers_lot": true,
+        "dealer_id": 6,
+        "in_compliance": false,
+        "machine_id": 21,
+        "machine_sold_status": "Sold ",
+        "machine_status": "Dealer Rental Fleet",
+        "model_no": "868J",
+        "modified_date": "08-05-2024"
+    },
+    {
+        "Dealers_lot": false,
+        "dealer_id": 7,
+        "in_compliance": true,
+        "machine_id": 23,
+        "machine_sold_status": "Unsold",
+        "machine_status": "Dealer Rental Fleet",
+        "model_no": "234H",
+        "modified_date": "09-05-2024"
+    },
+    {
+        "Dealers_lot": true,
+        "dealer_id": 8,
+        "in_compliance": true,
+        "machine_id": 25,
+        "machine_sold_status": "Sold ",
+        "machine_status": "Stock",
+        "model_no": "85G",
+        "modified_date": "10-05-2024"
+    },
+    {
+        "Dealers_lot": true,
+        "dealer_id": 9,
+        "in_compliance": false,
+        "machine_id": 27,
+        "machine_sold_status": "Sold ",
+        "machine_status": "Dealer Presold",
+        "model_no": "334G",
+        "modified_date": "11-05-2024"
+    },
+    {
+        "Dealers_lot": true,
+        "dealer_id": 10,
+        "in_compliance": false,
+        "machine_id": 29,
+        "machine_sold_status": "Unsold",
+        "machine_status": "Dealer Presold",
+        "model_no": "785VH",
+        "modified_date": "12-05-2024"
+    },
+    {
+        "Dealers_lot": false,
+        "dealer_id": 11,
+        "in_compliance": true,
+        "machine_id": 31,
+        "machine_sold_status": "Unsold",
+        "machine_status": "Dealer Rental Fleet",
+        "model_no": "652HF",
+        "modified_date": "13-05-2024"
+    },
+    {
+        "Dealers_lot": true,
+        "dealer_id": 12,
+        "in_compliance": false,
+        "machine_id": 33,
+        "machine_sold_status": "Sold ",
+        "machine_status": "Stock",
+        "model_no": "2213GB",
+        "modified_date": "14-05-2024"
+    },
+    {
+        "Dealers_lot": true,
+        "dealer_id": 13,
+        "in_compliance": true,
+        "machine_id": 35,
+        "machine_sold_status": "Unsold",
+        "machine_status": "Dealer Rental Fleet",
+        "model_no": "212C",
+        "modified_date": "15-05-2024"
+    },
+    {
+        "Dealers_lot": true,
+        "dealer_id": 14,
+        "in_compliance": true,
+        "machine_id": 37,
+        "machine_sold_status": "Unsold",
+        "machine_status": "Stock",
+        "model_no": "87BJ",
+        "modified_date": "16-05-2024"
+    },
+    {
+        "Dealers_lot": false,
+        "dealer_id": 15,
+        "in_compliance": true,
+        "machine_id": 39,
+        "machine_sold_status": "Unsold",
+        "machine_status": "Dealer Presold",
+        "model_no": "864BS",
+        "modified_date": "17-05-2024"
+    },
+    {
+        "Dealers_lot": true,
+        "dealer_id": 16,
+        "in_compliance": false,
+        "machine_id": 41,
+        "machine_sold_status": "Sold ",
+        "machine_status": "Stock",
+        "model_no": "256CF",
+        "modified_date": "18-05-2024"
+    },
+    {
+        "Dealers_lot": true,
+        "dealer_id": 17,
+        "in_compliance": true,
+        "machine_id": 43,
+        "machine_sold_status": "Sold ",
+        "machine_status": "Dealer Rental Fleet",
+        "model_no": "25V",
+        "modified_date": "19-05-2024"
+    },
+    {
+        "Dealers_lot": false,
+        "dealer_id": 18,
+        "in_compliance": true,
+        "machine_id": 45,
+        "machine_sold_status": "Unsold",
+        "machine_status": "Dealer Presold",
+        "model_no": "97HH",
+        "modified_date": "20-05-2024"
+    },
+    {
+        "Dealers_lot": false,
+        "dealer_id": 19,
+        "in_compliance": true,
+        "machine_id": 47,
+        "machine_sold_status": "Sold ",
+        "machine_status": "Dealer Presold",
+        "model_no": "797JJ",
+        "modified_date": "21-05-2024"
+    },
+    {
+        "Dealers_lot": true,
+        "dealer_id": 20,
+        "in_compliance": false,
+        "machine_id": 49,
+        "machine_sold_status": "Unsold",
+        "machine_status": "Stock",
+        "model_no": "64CX",
+        "modified_date": "22-05-2024"
+    }
+]
