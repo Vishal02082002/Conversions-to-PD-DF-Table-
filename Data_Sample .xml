@@ -1,0 +1,203 @@
+<?xml version="1.0" ?>
+<all>
+	<item type="dict">
+		<Dealers_lot type="bool">true</Dealers_lot>
+		<dealer_id type="int">1</dealer_id>
+		<in_compliance type="bool">false</in_compliance>
+		<machine_id type="int">11</machine_id>
+		<machine_sold_status type="str">Sold </machine_sold_status>
+		<machine_status type="str">Dealer Rental Fleet</machine_status>
+		<model_no type="str">644P</model_no>
+		<modified_date type="str">03-05-2024</modified_date>
+	</item>
+	<item type="dict">
+		<Dealers_lot type="bool">true</Dealers_lot>
+		<dealer_id type="int">2</dealer_id>
+		<in_compliance type="bool">true</in_compliance>
+		<machine_id type="int">13</machine_id>
+		<machine_sold_status type="str">Unsold</machine_sold_status>
+		<machine_status type="str">Dealer Presold</machine_status>
+		<model_no type="str">1775NT</model_no>
+		<modified_date type="str">04-05-2024</modified_date>
+	</item>
+	<item type="dict">
+		<Dealers_lot type="bool">false</Dealers_lot>
+		<dealer_id type="int">3</dealer_id>
+		<in_compliance type="bool">true</in_compliance>
+		<machine_id type="int">15</machine_id>
+		<machine_sold_status type="str">Sold </machine_sold_status>
+		<machine_status type="str">Stock</machine_status>
+		<model_no type="str">54H</model_no>
+		<modified_date type="str">05-05-2024</modified_date>
+	</item>
+	<item type="dict">
+		<Dealers_lot type="bool">true</Dealers_lot>
+		<dealer_id type="int">4</dealer_id>
+		<in_compliance type="bool">false</in_compliance>
+		<machine_id type="int">17</machine_id>
+		<machine_sold_status type="str">Unsold</machine_sold_status>
+		<machine_status type="str">Dealer Rental Fleet</machine_status>
+		<model_no type="str">5435T</model_no>
+		<modified_date type="str">06-05-2024</modified_date>
+	</item>
+	<item type="dict">
+		<Dealers_lot type="bool">false</Dealers_lot>
+		<dealer_id type="int">5</dealer_id>
+		<in_compliance type="bool">true</in_compliance>
+		<machine_id type="int">19</machine_id>
+		<machine_sold_status type="str">Sold </machine_sold_status>
+		<machine_status type="str">Dealer Presold</machine_status>
+		<model_no type="str">5434Y</model_no>
+		<modified_date type="str">07-05-2024</modified_date>
+	</item>
+	<item type="dict">
+		<Dealers_lot type="bool">true</Dealers_lot>
+		<dealer_id type="int">6</dealer_id>
+		<in_compliance type="bool">false</in_compliance>
+		<machine_id type="int">21</machine_id>
+		<machine_sold_status type="str">Sold </machine_sold_status>
+		<machine_status type="str">Dealer Rental Fleet</machine_status>
+		<model_no type="str">868J</model_no>
+		<modified_date type="str">08-05-2024</modified_date>
+	</item>
+	<item type="dict">
+		<Dealers_lot type="bool">false</Dealers_lot>
+		<dealer_id type="int">7</dealer_id>
+		<in_compliance type="bool">true</in_compliance>
+		<machine_id type="int">23</machine_id>
+		<machine_sold_status type="str">Unsold</machine_sold_status>
+		<machine_status type="str">Dealer Rental Fleet</machine_status>
+		<model_no type="str">234H</model_no>
+		<modified_date type="str">09-05-2024</modified_date>
+	</item>
+	<item type="dict">
+		<Dealers_lot type="bool">true</Dealers_lot>
+		<dealer_id type="int">8</dealer_id>
+		<in_compliance type="bool">true</in_compliance>
+		<machine_id type="int">25</machine_id>
+		<machine_sold_status type="str">Sold </machine_sold_status>
+		<machine_status type="str">Stock</machine_status>
+		<model_no type="str">85G</model_no>
+		<modified_date type="str">10-05-2024</modified_date>
+	</item>
+	<item type="dict">
+		<Dealers_lot type="bool">true</Dealers_lot>
+		<dealer_id type="int">9</dealer_id>
+		<in_compliance type="bool">false</in_compliance>
+		<machine_id type="int">27</machine_id>
+		<machine_sold_status type="str">Sold </machine_sold_status>
+		<machine_status type="str">Dealer Presold</machine_status>
+		<model_no type="str">334G</model_no>
+		<modified_date type="str">11-05-2024</modified_date>
+	</item>
+	<item type="dict">
+		<Dealers_lot type="bool">true</Dealers_lot>
+		<dealer_id type="int">10</dealer_id>
+		<in_compliance type="bool">false</in_compliance>
+		<machine_id type="int">29</machine_id>
+		<machine_sold_status type="str">Unsold</machine_sold_status>
+		<machine_status type="str">Dealer Presold</machine_status>
+		<model_no type="str">785VH</model_no>
+		<modified_date type="str">12-05-2024</modified_date>
+	</item>
+	<item type="dict">
+		<Dealers_lot type="bool">false</Dealers_lot>
+		<dealer_id type="int">11</dealer_id>
+		<in_compliance type="bool">true</in_compliance>
+		<machine_id type="int">31</machine_id>
+		<machine_sold_status type="str">Unsold</machine_sold_status>
+		<machine_status type="str">Dealer Rental Fleet</machine_status>
+		<model_no type="str">652HF</model_no>
+		<modified_date type="str">13-05-2024</modified_date>
+	</item>
+	<item type="dict">
+		<Dealers_lot type="bool">true</Dealers_lot>
+		<dealer_id type="int">12</dealer_id>
+		<in_compliance type="bool">false</in_compliance>
+		<machine_id type="int">33</machine_id>
+		<machine_sold_status type="str">Sold </machine_sold_status>
+		<machine_status type="str">Stock</machine_status>
+		<model_no type="str">2213GB</model_no>
+		<modified_date type="str">14-05-2024</modified_date>
+	</item>
+	<item type="dict">
+		<Dealers_lot type="bool">true</Dealers_lot>
+		<dealer_id type="int">13</dealer_id>
+		<in_compliance type="bool">true</in_compliance>
+		<machine_id type="int">35</machine_id>
+		<machine_sold_status type="str">Unsold</machine_sold_status>
+		<machine_status type="str">Dealer Rental Fleet</machine_status>
+		<model_no type="str">212C</model_no>
+		<modified_date type="str">15-05-2024</modified_date>
+	</item>
+	<item type="dict">
+		<Dealers_lot type="bool">true</Dealers_lot>
+		<dealer_id type="int">14</dealer_id>
+		<in_compliance type="bool">true</in_compliance>
+		<machine_id type="int">37</machine_id>
+		<machine_sold_status type="str">Unsold</machine_sold_status>
+		<machine_status type="str">Stock</machine_status>
+		<model_no type="str">87BJ</model_no>
+		<modified_date type="str">16-05-2024</modified_date>
+	</item>
+	<item type="dict">
+		<Dealers_lot type="bool">false</Dealers_lot>
+		<dealer_id type="int">15</dealer_id>
+		<in_compliance type="bool">true</in_compliance>
+		<machine_id type="int">39</machine_id>
+		<machine_sold_status type="str">Unsold</machine_sold_status>
+		<machine_status type="str">Dealer Presold</machine_status>
+		<model_no type="str">864BS</model_no>
+		<modified_date type="str">17-05-2024</modified_date>
+	</item>
+	<item type="dict">
+		<Dealers_lot type="bool">true</Dealers_lot>
+		<dealer_id type="int">16</dealer_id>
+		<in_compliance type="bool">false</in_compliance>
+		<machine_id type="int">41</machine_id>
+		<machine_sold_status type="str">Sold </machine_sold_status>
+		<machine_status type="str">Stock</machine_status>
+		<model_no type="str">256CF</model_no>
+		<modified_date type="str">18-05-2024</modified_date>
+	</item>
+	<item type="dict">
+		<Dealers_lot type="bool">true</Dealers_lot>
+		<dealer_id type="int">17</dealer_id>
+		<in_compliance type="bool">true</in_compliance>
+		<machine_id type="int">43</machine_id>
+		<machine_sold_status type="str">Sold </machine_sold_status>
+		<machine_status type="str">Dealer Rental Fleet</machine_status>
+		<model_no type="str">25V</model_no>
+		<modified_date type="str">19-05-2024</modified_date>
+	</item>
+	<item type="dict">
+		<Dealers_lot type="bool">false</Dealers_lot>
+		<dealer_id type="int">18</dealer_id>
+		<in_compliance type="bool">true</in_compliance>
+		<machine_id type="int">45</machine_id>
+		<machine_sold_status type="str">Unsold</machine_sold_status>
+		<machine_status type="str">Dealer Presold</machine_status>
+		<model_no type="str">97HH</model_no>
+		<modified_date type="str">20-05-2024</modified_date>
+	</item>
+	<item type="dict">
+		<Dealers_lot type="bool">false</Dealers_lot>
+		<dealer_id type="int">19</dealer_id>
+		<in_compliance type="bool">true</in_compliance>
+		<machine_id type="int">47</machine_id>
+		<machine_sold_status type="str">Sold </machine_sold_status>
+		<machine_status type="str">Dealer Presold</machine_status>
+		<model_no type="str">797JJ</model_no>
+		<modified_date type="str">21-05-2024</modified_date>
+	</item>
+	<item type="dict">
+		<Dealers_lot type="bool">true</Dealers_lot>
+		<dealer_id type="int">20</dealer_id>
+		<in_compliance type="bool">false</in_compliance>
+		<machine_id type="int">49</machine_id>
+		<machine_sold_status type="str">Unsold</machine_sold_status>
+		<machine_status type="str">Stock</machine_status>
+		<model_no type="str">64CX</model_no>
+		<modified_date type="str">22-05-2024</modified_date>
+	</item>
+</all>
